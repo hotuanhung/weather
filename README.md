@@ -1,14 +1,7 @@
 # The Weather Forecast App
 
-A realtime weather forecast app made with React Js. Additionally AOS, React-Router-Dom is used to ensure good user experience while assuring blazing fast perfomance. 
+A realtime weather forecast app made with React Js.  
 
-You can connect with me through my social profiles
-
-[Facebook](https://www.facebook.com/alraakib "alraakib")
-
-[Instagram](https://www.instagram.com/alraakib "alraakib")
-
-[Github](https://github.com/alraakib "alraakib")
 
 ## Installation
 
@@ -30,4 +23,4 @@ npm run build
 
 
 ```
-# weather
+
